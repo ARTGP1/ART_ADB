@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Name: SiteBlocker
+! Expires: 4 days
+reddit.com
+autosport.com
+sportscar365.com
+twitter.com
+youtube.com
